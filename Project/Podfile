@@ -1,0 +1,7 @@
+pod "httpserver", :path => "../httpserver.podspec"
+
+target "Demo" do
+end
+
+target "DemoTests" do
+end
