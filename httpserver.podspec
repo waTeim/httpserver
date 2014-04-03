@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version      = "0.7.0"
   s.summary      = "C++ library for creating an embedded Rest HTTP server"
   s.description  = <<-DESC
-C++ library for creating an embedded Rest HTTP server
+C++ library for creating an embedded Rest HTTP server.
                    DESC
   s.homepage     = "https://github.com/etr/libhttpserver"
   s.screenshots  = 
